@@ -7,7 +7,7 @@ body{
     height: 100vh;
     width: 100%;
     /* border: red solid 2px; */
-    background-image: url(../_img/backcircle.jpg);
+    background-image: url(./img/backcircle.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Roboto Slab', serif;
