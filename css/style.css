@@ -10,7 +10,7 @@ body{
     background-image: url(../img/backcircle.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-x: center;
+    background-position: center;
     font-family: 'Roboto Slab', serif;
 }
 .card{
